@@ -34,3 +34,6 @@ Student: Isabella Franco
 
 
 Student Oscar successfully cloned the repo.
+
+Student: William Makridakis successfully cloned the repo
+
